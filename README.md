@@ -44,6 +44,10 @@ Input (30) → Dense(64, ReLU) → Dropout(0.3)
 |-------------|-----------|
 | ![dist](class_distribution.png) | ![cm](confusion_matrix.png) |
 
+| 피처-Class 상관계수 | Amount 분포 (정상 vs 사기) |
+|---------------------|---------------------------|
+| ![corr](eda_correlation.png) | ![amount](eda_amount_dist.png) |
+
 ## 실행 방법
 
 ### 1. 데이터 다운로드
