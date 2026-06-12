@@ -1,0 +1,14 @@
+# 데이터 파일 (용량 크므로 제외 - Kaggle에서 직접 다운로드)
+creditcard.csv
+*.csv
+
+# 실행 결과 노트북 (원본만 유지)
+*_실행.ipynb
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
